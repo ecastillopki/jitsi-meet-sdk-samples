@@ -3,8 +3,8 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 29
     defaultConfig {
-        applicationId "net.jitsi.sdktest"
-        minSdkVersion 23
+        applicationId "net.goctorstest"
+        minSdkVersion 22
         targetSdkVersion 29
         versionCode 1
         versionName "1.0"
